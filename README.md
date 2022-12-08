@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building and maintaining software applications with ASP.NET, Azure, and React Framework.
 - 🌱 I’m currently learning cloud technologies.
 - 👯 I’m looking to collaborate on projects related to full stack development and cloud computing.
-- 🤔 I’m looking for help with learning new technologies and frameworks.
 - 💬 Ask me about my experience with .NET, Azure, and React.
 - 📫 How to reach me: <contact@prasath.me>
 - ⚡ Fun fact: I am a quick learner and adapt well to new situations and changes.
