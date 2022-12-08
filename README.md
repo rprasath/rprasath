@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects related to full stack development and cloud computing.
 - 💬 Ask me about my experience with .NET, Azure, and React.
 - 📫 How to reach me: <contact@prasath.me>
-- ⚡ Fun fact: I am a quick learner and adapt well to new situations and changes.
+- ⚡ I am a quick learner and adapt well to new situations and changes.
 
 <table>
   <tr>
