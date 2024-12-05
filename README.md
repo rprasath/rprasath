@@ -17,10 +17,21 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm [Prasath Ramasamy](https://www.linkedin.com/in/prasathramasamy/)
 
-## A Full Stack Engineer !!
-- 🔭 I’m currently working on building and maintaining software applications with ASP.NET, Azure, and React Framework.
-- 🌱 I’m currently learning cloud technologies.
-- 👯 I’m looking to collaborate on projects related to full stack development and cloud computing.
-- 💬 Ask me about my experience with .NET, Azure, and React.
+## Solutions Architect 
+
+### 🔭 What I Do  
+I specialize in designing and implementing **scalable, cloud-native solutions** using cutting-edge technologies, including:  
+- **.NET** for building robust, high-performance applications.  
+- **Azure Services** for deploying, managing, and scaling cloud solutions.  
+- **Generative AI** to drive innovation and enhance system capabilities.
+
+### 🌱 Always Exploring  
+I stay ahead of the curve by continuously learning advancements in:  
+- **Cloud technologies**  
+- **Artificial intelligence**  
+- **Modern software architecture patterns**
+
+### 💬 Let’s Collaborate  
+I’m always interested in working on projects involving **cloud-native development**, **AI-driven solutions**, and **high-performance systems**. Let’s build something innovative together! 
+
 - 📫 How to reach me: <contact@prasath.me>
-- ⚡ I am a quick learner and adapt well to new situations and changes.
